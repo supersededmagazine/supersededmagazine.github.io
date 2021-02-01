@@ -104,15 +104,6 @@ input[type="submit"]:hover {
   color: #ffffff;
 }
 
-response {
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 0.875rem;
-  line-height: 0.5rem;
-  color: #f0f423;
-}
-
 /* Footer */
 
 footer {
