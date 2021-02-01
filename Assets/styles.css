@@ -6,7 +6,7 @@
 }
 
 body {
-  background: blue;
+  background: linear-gradient(blue 20%, #0c1d76 80%);
   margin: auto 0;
 }
 
