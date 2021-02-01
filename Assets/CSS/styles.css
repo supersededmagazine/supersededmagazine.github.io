@@ -2,7 +2,7 @@
 
 @font-face {
   font-family:"Shrimp";
-  src: url(SHRIMP.ttf);
+  src: url("../Fonts/SHRIMP.ttf");
 }
 
 body {
