@@ -50,6 +50,16 @@ body {
   margin: 2rem 7rem;
 }
 
+p.short {
+  font-family: "Inter";
+  font-size: 1.5rem;
+  line-height: 2rem;
+  font-weight: 300;
+  color: #ffffff;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
 /* Form */
 
 .form-container {
