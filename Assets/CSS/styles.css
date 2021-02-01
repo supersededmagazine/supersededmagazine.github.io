@@ -1,8 +1,8 @@
 @import url("https://rsms.me/inter/inter.css");
 
 @font-face {
-  font-family: "Shrimp";
-  src: url(./Assets/Fonts/SHRIMP.ttf) format("truetype");
+  font-family:"Shrimp";
+  src: url("./Assets/Fonts/SHRIMP.ttf") format("truetype");
 }
 
 body {
