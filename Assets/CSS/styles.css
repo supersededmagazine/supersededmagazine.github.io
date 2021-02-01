@@ -171,12 +171,12 @@ h3 {
 
   input {
     font-size: 0.875rem;
-    line-height: 1.5rem;
+    line-height: 2rem;
   }
 
   input[type="submit"] {
     font-size: 0.875rem;
-    line-height: 1.5rem;
+    line-height: 2rem;
     padding: 0.1rem 0.5rem;
   }
 
