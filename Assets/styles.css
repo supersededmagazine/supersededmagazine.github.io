@@ -189,6 +189,13 @@ h3 {
   .content p {
     margin: 1rem 2rem;
   }
+  
+  p.short {
+    font-family: "Inter";
+    font-size: 1.2rem;
+    line-height: 1.7rem;
+    margin-bottom: 0.5rem;
+  }
 
   .form-container {
     margin: 0 2rem 2rem 2rem;
